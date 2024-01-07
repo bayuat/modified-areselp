@@ -1,5 +1,5 @@
-Modified version of MATLAB packages for the original version of ice layer annotation technique published in "Xiong S, Muller JP, Carretero RC. A new method for automatically tracing englacial layers from MCoRDS data in NW Greenland. Remote Sensing. 2017 Dec 27;10(1):43."
-Several modifications include:
-- peak detection strategy
-- seed points selection using image processing techniques
-- new validation metrics
+A modified version of MATLAB packages for the original version of the ice layer annotation technique that was published in "Xiong S, Muller JP, Carretero RC. A new method for automatically tracing englacial layers from MCoRDS data in NW Greenland. Remote Sensing. 2017 Dec 27;10(1):43."
+Several modifications include the following main aspects:
+- Peak detection strategy
+- Seed points selection using image processing techniques
+- New validation metrics
