@@ -3,3 +3,5 @@ Several modifications include the following main aspects:
 - Peak detection strategy
 - Seed points selection using image processing techniques
 - New validation metrics
+
+The paper is accepted at The 40th ACM/SIGAPP Symposium On Applied Computing (ACM SAC'25)
