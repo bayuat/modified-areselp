@@ -4,5 +4,5 @@ Several modifications include the following main aspects:
 - Seed points selection using image processing techniques
 - New validation metrics
 
-Please cite the following paper if you find this repo useful
+Please cite the following paper if you find this repo useful\\
 "**Tama, Bayu Adhi, Sanjay Purushotham, and Vandana Janeja. "MorphoLayerTrace (MLT): A Modified Automated Radio-Echo Sounding Englacial Layer-tracing Algorithm for Englacial Layer Annotation in Ice Penetrating Radar Data." In Proceedings of the 40th ACM/SIGAPP Symposium on Applied Computing, pp. 605-612. 2025.**"
