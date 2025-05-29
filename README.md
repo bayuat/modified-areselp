@@ -7,7 +7,7 @@ Several modifications include the following main aspects:
 MLT folder contains the main implementation (in MATLAB) of the MorphoLayerTrace (MLT) algorithm, while layer_validation folder contains the implementation of new validation approach such as Multi-Frame Layer Consistency (𝑀𝐹𝐿𝐶) metric.
 
 To run MLT, please follow the steps provided by the original ARESELP repo.
-To run MFLC in the find_unique_layers_across_multiple_radargrams.ipynb, please download (https://drive.google.com/drive/folders/1Q5u3kZcc0PDiepq4_ifrYfwUzrMYDjmg?usp=sharing) the annotation data and copy them to the respected folders. 
+To run MFLC in the find_unique_layers_across_multiple_radargrams.ipynb, please download [download the annotation data](https://drive.google.com/drive/folders/1Q5u3kZcc0PDiepq4_ifrYfwUzrMYDjmg?usp=sharing) and copy them to the respected folders. 
 
 Please cite the following paper if you find this repo useful:
 Tama, Bayu Adhi, Sanjay Purushotham, and Vandana Janeja. "MorphoLayerTrace (MLT): A Modified Automated Radio-Echo Sounding Englacial Layer-tracing Algorithm for Englacial Layer Annotation in Ice Penetrating Radar Data." In _Proceedings of the 40th ACM/SIGAPP Symposium on Applied Computing, pp. 605-612. 2025_.
