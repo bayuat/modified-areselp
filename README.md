@@ -12,4 +12,12 @@ All packages in the NDH_Tools folder are written by Nick Holschuh and are public
 Expert annotation data is provided by Nick Holschuh and Joseph A MacGregor.
 
 Please cite the following paper if you find this repo useful:
-Tama, Bayu Adhi, Sanjay Purushotham, and Vandana Janeja. "MorphoLayerTrace (MLT): A Modified Automated Radio-Echo Sounding Englacial Layer-tracing Algorithm for Englacial Layer Annotation in Ice Penetrating Radar Data." In _Proceedings of the 40th ACM/SIGAPP Symposium on Applied Computing, pp. 605-612. 2025_.
+```bibtex
+@inproceedings{tama2025morpholayertrace,
+  title={MorphoLayerTrace (MLT): A Modified Automated Radio-Echo Sounding Englacial Layer-tracing Algorithm for Englacial Layer Annotation in Ice Penetrating Radar Data},
+  author={Tama, Bayu Adhi and Purushotham, Sanjay and Janeja, Vandana},
+  booktitle={Proceedings of the 40th ACM/SIGAPP Symposium on Applied Computing},
+  pages={605--612},
+  year={2025},
+  doi={https://doi.org/10.1145/3672608.3707935}
+}
